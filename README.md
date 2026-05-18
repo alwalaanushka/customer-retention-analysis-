@@ -40,3 +40,4 @@ customer-retention-dashboard/
 
 https://github.com/alwalaanushka/customer-retention-analysis-/blob/ab80d0529e0b32b84ec99b34bf72df59f78d1124/Screenshot%202026-05-18%20224040.png
 
+https://github.com/alwalaanushka/customer-retention-analysis-/blob/bc97ef61ff3710859ec7a39a33595d869cae8f95/Screenshot%202026-05-18%20224059.png
